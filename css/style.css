@@ -1,0 +1,54 @@
+body {
+    color: #666;
+}
+h1 {
+    font-size: 1.5rem;
+}
+h2 {
+    font-size: 1.4rem;
+}
+h3 {
+    font-size: 1.3rem;
+}
+h4 {
+    font-size: 1.2rem;
+}
+h5 {
+    font-size: 1.1rem;
+}
+h6 {
+    font-size: 1rem;
+}
+p {
+    font-size: 0.9rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+}
+span {
+    color: gray;
+    font-size: 0.5em;
+}
+a:link, a:active, a:visited, a:active {
+    color: #587498;
+}
+
+#content {
+    background-color: #f5fafa;
+}
+#hr-sidebar {
+    width: 50%;
+    opacity: 0.3;
+}
+#sidebar {
+    background-image: url("../images/absurdity.png");
+    background-color: #587498;
+}
+#portfolio {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 3rem;
+    color: #ffd800;
+}
+#icon-bootstrap {
+    color: purple;
+}
